@@ -1,0 +1,11 @@
+name: XpSend
+version: ${project.version}
+main: me.snazzy.xpsend.Main
+api-version: 1.16
+authors: [ MrSnazzy ]
+description: Send players some of your xp.
+commands:
+  sendxp:
+    usage: sendxp
+  xpchart:
+    usage: xpchart
